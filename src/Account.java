@@ -1,7 +1,5 @@
 /*
  * Update on: 15/04/2020 
- * Student Name: Yuxi Wang
- * Student ID: 22001587
  */
 public class Account 
 {
